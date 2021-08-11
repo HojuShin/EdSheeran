@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
+
+h1 {
+    font-family:'East Sea Dokdo', cursive ;
+    font-size: 60px;
+}
+
+h2 {
+    font-family:  'Do Hyeon', sans-serif;
+    font-size: 30px;
+    color : rgb(52, 52, 240) ;
+}
+
+div {
+    font-family: 'Hahmlet', serif;
+    font-size: 18px;
+}
+
+table {border-collapse: collapse} td {border : 1px solid black ;}
