@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>모각코 2일차</title>
+   <style>
+       .title { color:blue ;}
+       .title2 { color: rgb(20, 80, 136);} 
+   </style>
+</head>
+<body>
+    <img src = C:\Users\shin\Pictures\html\Ed-Sheeran-Logo.png  width="400" height="180" > </img> <img src = C:\Users\shin\Pictures\html\ed.jpg width="500" height="180" > </img>
+    <h1 class="title"> 에드시런 </h1> 
+    <hr>    
+    <div>영국출신의 싱어송라이터로, 본명은 Edward Christopher Sheeran(에드워드 크리스토퍼 시런). <br>뛰어난 작곡 능력과 아름다운 목소리, 중독성 있는 노래로 2010년대 전 세계 대중음악사에 큰 영향을 행사한 가장 뛰어난 아티스트 중 하나다.
+        <br> <u> <strong> 그의 대표곡 중 우리나라에서는 &lt;Shape of you&gt;가 가장 유명하다.</u> </strong></div>
+    <br>
+    <br>
+    <h2 class="title2"> 📺 데뷔</h2>
+    <hr>
+    <div> 어린 나이부터 기타와 작사를 시작해서 2005년에 녹음 작업을 시작하였고, 2008년부터 런던에서 지내면서 커리어를 쌓는다. 
+        <br>2010년에는 기타 하나만 들고 혈혈단신으로 미국으로 떠나 하루 종일 길에서 노래를 부르고 다니던 도중 마침 그곳을 지나가던 가수 제이미 폭스의 눈에 띄어 그의 스튜디오에서 공짜로 녹음을 하는 등 많은 도움을 받는다. 
+        <br>이 일을 계기로 유튜브 등지에서 인지도를 쌓고 2011년 첫 메이저 싱글 'The A Team'을 발표한다.</div>
+    <br>
+    <h2 class="title2"> 🎤 대표앨범</h2>
+    <hr>
+    <img src = "C:\Users\shin\Pictures\html\divide.jpg"  width = "100" height = "100"> </img> 
+    <img src = ‪C:\Users\shin\Pictures\html\edx.jpg width= "100" height= "100" > </img>
+    <img src = "‪C:\Users\shin\Pictures\html\eddd.jpg"  width = "100" height = "100"> </img>
+    <img src = ‪C:\Users\shin\Pictures\html\plus.png width = "100" height = "100"> </img>
+    <br>
+    <br>
+    <h2 class="title2" >🏆 수상경력</h2>
+    <hr>
+    <div>
+        <ul>
+        <li>2018 - 제60회 그래미 어워드 최우수 팝 솔로 퍼포먼스상 / 최우수 팝 보컬 앨범상</li>
+        <li>2017 - MTV 비디오 뮤직 어워드 올해의 아티스트상</li>
+        <li>2016 - 제58회 그래미 어워드 올해의 노래상 / 최우수 팝 솔로 퍼포먼스상</li>
+        <li>2012 - 브릿 어워드 최우수 신인상 / 브릿 어워드 최우수 남자 솔로 아티스트상</li>
+        </ul>
+    </div>
+</body>
+</html>
